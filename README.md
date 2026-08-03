@@ -1,24 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Dalpat%20Singh&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Dalpat%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
-</div>
+# Hi 👋, I'm Dalpat Singh
 
-<h1 align="center">
-Hi 👋, I'm Dalpat Singh
-</h1>
-
-<h3 align="center">
-Java Full Stack Developer 🚀
-<br>
-Spring Boot • React • Hibernate • MySQL • REST APIs
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Open+Source+Contributor;REST+API+Developer;Always+Learning+New+Things🚀"/>
-
-</p>
+### 🚀 Java Full Stack Developer | Spring Boot | React | Hibernate | MySQL
 
 <p align="center">
 
@@ -39,103 +25,112 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 </a>
 
 <a href="https://portfolio-js8d.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Dalpatsinghbhayal&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Dalpatsinghbhayal?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Dalpatsinghbhayal?style=for-the-badge"/>
-
-</p>
-
----
-
-# 💫 About Me
-
-<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-🎓 **B.Tech in Artificial Intelligence & Data Science**
-
-💻 Passionate **Java Full Stack Developer**
-
-🚀 Building scalable Full Stack Applications
-
-🌱 Currently Learning
-
-- Spring Boot
-- Hibernate
-- JPA
-- Microservices
-
-🔥 Solving DSA using Java
-
-💡 Interested in Backend Development, REST APIs and React
-
-🤝 Open to
-
-- Software Developer
-- Java Developer
-- Full Stack Developer
-- Frontend Developer
-- Internship Opportunities
-
-📫 **Email**
-
-**dalpatbhayal07@gmail.com**
-
-⚡ **Fun Fact**
-
-> Consistency beats Talent.
-
-<br>
-
----
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp"/>
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
-
-### ⚙ Backend
-
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
-
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;REST+API+Developer;Open+Source+Learner;Always+Learning+🚀"/>
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+# 👨‍💻 About Me
 
-<p align="center">
+```java
+public class DalpatSingh {
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    String role = "Java Full Stack Developer";
 
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+    String education =
+        "B.Tech (Artificial Intelligence & Data Science)";
 
-<img src="https://img.shields.io/badge/JPA-FF6B35?style=for-the-badge"/>
+    String currentLearning =
+        "Spring Boot, Hibernate, JPA, Microservices";
 
-<img src="https://img.shields.io/badge/Microservices-02569B?style=for-the-badge"/>
+    String interests =
+        "Backend Development, React, REST APIs";
+
+    String goal =
+        "Software Development Engineer";
+
+}
+```
+
+- 💻 Passionate Java Full Stack Developer
+- 🌱 Currently learning Spring Boot & Microservices
+- 🚀 Building scalable web applications
+- 🔥 Solving DSA using Java
+- 🤝 Open to Internship & Full-Time Opportunities
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=sql"/>
+
+</p>
+
+### 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+### ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=maven"/>
+
+</p>
+
+### 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+### 🧰 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=idea"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
 
 </p>
 
@@ -150,13 +145,13 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 <td width="50%">
 
-<h3 align="center">✅ Todo Management System</h3>
+<h3 align="center">📝 Todo Management System</h3>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -164,12 +159,12 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 ### ✨ Features
 
-- CRUD Operations
-- Authentication
-- REST APIs
-- Hibernate ORM
-- MySQL Database
-- MVC Architecture
+- ✅ User Authentication
+- ✅ CRUD Operations
+- ✅ REST APIs
+- ✅ Hibernate ORM
+- ✅ MySQL Integration
+- ✅ Responsive UI
 
 <p align="center">
 
@@ -181,7 +176,7 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 <a href="YOUR_TODO_LIVE">
 
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -191,7 +186,7 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 <td width="50%">
 
-<h3 align="center">🏡 Gharpayy Growth Assignment</h3>
+<h3 align="center">🏠 Gharpayy Growth Assignment</h3>
 
 <p align="center">
 
@@ -205,12 +200,12 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 ### ✨ Features
 
-- Responsive UI
-- Lead Management
-- Reusable Components
-- Clean Dashboard
-- Modern Design
-- Fast Performance
+- ✅ Lead Management
+- ✅ Responsive Dashboard
+- ✅ Modern UI
+- ✅ Reusable Components
+- ✅ TypeScript Support
+- ✅ Fast Performance
 
 <p align="center">
 
@@ -222,7 +217,7 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 <a href="https://techblr-gharpayy-assignment-chi.vercel.app/">
 
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -240,9 +235,9 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
@@ -250,12 +245,12 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 ### ✨ Features
 
-- Responsive Design
-- Product Listing
-- Interactive UI
-- Modern Layout
-- Mobile Friendly
-- Clean Interface
+- ✅ Responsive Design
+- ✅ Product Listing
+- ✅ Interactive UI
+- ✅ Mobile Friendly
+- ✅ Clean Layout
+- ✅ Modern Interface
 
 <p align="center">
 
@@ -267,7 +262,7 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 <a href="https://e-website-flax.vercel.app/">
 
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -281,9 +276,9 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
@@ -291,12 +286,12 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 ### ✨ Features
 
-- Responsive Design
-- Smooth Animations
-- Projects Showcase
-- Skills Section
-- Contact Form
-- Mobile Friendly
+- ✅ Responsive Portfolio
+- ✅ Smooth Animations
+- ✅ Project Showcase
+- ✅ Skills Section
+- ✅ Contact Section
+- ✅ Modern UI
 
 <p align="center">
 
@@ -308,7 +303,7 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 <a href="https://portfolio-js8d.vercel.app/">
 
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -323,13 +318,13 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 </div>
 
 ---
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dalpatsinghbhayal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dalpatsinghbhayal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalpatsinghbhayal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalpatsinghbhayal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -337,11 +332,26 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Dalpatsinghbhayal&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Dalpatsinghbhayal&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+
+# 💻 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/dalpat_singh/">
+
+<img src="https://leetcard.jacoblin.cool/dalpat_singh?theme=dark&font=Baloo&ext=contest"/>
+
+</a>
+
+</div>
+
+---
+
 # 📈 Contribution Graph
 
 <div align="center">
@@ -351,52 +361,118 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 </div>
 
 ---
-# 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dalpatsinghbhayal&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalpatsinghbhayal&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Dalpatsinghbhayal&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-# 💻 Coding Profiles
+# 🐍 Contribution Snake
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🏅 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java_Full_Stack-KodNest-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Celebal_Internship-2025-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Udemy-Java-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HP_LIFE-Data_Analytics-brightgreen?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💼 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/Dalpatsinghbhayal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <a href="https://leetcode.com/u/dalpat_singh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/Dalpatsinghbhayal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://portfolio-js8d.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
 
 ---
+
 # 🎯 Current Focus
 
-- 🚀 Building Full Stack Applications
-- 🌱 Learning Spring Boot, Hibernate & Microservices
-- 💡 Practicing Java DSA Daily
-- 🤝 Open to Software Development Opportunities
+<div align="center">
+
+| 🚀 Learning | 💻 Building | 🎯 Goal |
+|-------------|------------|---------|
+| Spring Boot | Full Stack Projects | Software Development Engineer |
+| Hibernate | REST APIs | Product & Service Based Companies |
+| Microservices | React Applications | Open Source Contributions |
+| DSA (Java) | Java Backend | Continuous Learning |
+
+</div>
 
 ---
+
+# 🗺️ 2026 Roadmap
+
+- ✅ Master Java Core & Advanced Java
+- ✅ Build 10+ Full Stack Projects
+- ✅ Master Spring Boot & Hibernate
+- ✅ Learn Microservices
+- ✅ Learn Docker
+- ✅ Learn AWS Basics
+- ✅ Solve 500+ DSA Problems
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Developer Role
+
+---
+
+# 📈 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| Java Full Stack | 🟢 In Progress |
+| Spring Boot | 🟢 In Progress |
+| Hibernate | 🟢 In Progress |
+| React | 🟢 In Progress |
+| Docker | 🟡 Planned |
+| AWS | 🟡 Planned |
+| Microservices | 🟢 Learning |
+| Open Source | 🟢 Active |
+
+</div>
+
+---
+
+# 🌟 Beyond Coding
+
+- 🧩 Solving DSA Problems
+- 📚 Learning New Technologies
+- 🤝 Contributing to Open Source
+- 🌐 Building Real-World Projects
+- 💡 Exploring Software Architecture
+
+---
+
 # 📬 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:dalpatbhayal07@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -410,15 +486,30 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+<a href="https://portfolio-js8d.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
 
 ---
+
+# 💡 Quote
+
 <div align="center">
 
-### ⭐ Thanks for Visiting My Profile
+> **"Success is built one commit, one bug fix, and one lesson at a time."**
 
-### Happy Coding 🚀
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile
+
+### If you like my work, don't forget to ⭐ my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
 
 </div>
