@@ -323,4 +323,99 @@ Spring Boot • React • Hibernate • MySQL • REST APIs
 </div>
 
 ---
+# 📊 GitHub Statistics
 
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dalpatsinghbhayal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalpatsinghbhayal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Dalpatsinghbhayal&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dalpatsinghbhayal&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dalpatsinghbhayal&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/dalpat_singh/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Dalpatsinghbhayal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-js8d.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+# 🎯 Current Focus
+
+- 🚀 Building Full Stack Applications
+- 🌱 Learning Spring Boot, Hibernate & Microservices
+- 💡 Practicing Java DSA Daily
+- 🤝 Open to Software Development Opportunities
+
+---
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:dalpatbhayal07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Dalpatsinghbhayal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+<div align="center">
+
+### ⭐ Thanks for Visiting My Profile
+
+### Happy Coding 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
