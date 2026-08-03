@@ -9,16 +9,38 @@ Hi 👋, I'm Dalpat Singh
 </h1>
 
 <h3 align="center">
-
 Java Full Stack Developer 🚀
-
-Spring Boot • Hibernate • React • SQL • REST API
-
+<br>
+Spring Boot • React • Hibernate • MySQL • REST APIs
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Developer;REST+API+Developer;Open+Source+Learner;Always+Learning+New+Things🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Open+Source+Contributor;REST+API+Developer;Always+Learning+New+Things🚀"/>
+
+</p>
+
+<p align="center">
+
+<a href="mailto:dalpatbhayal07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Dalpatsinghbhayal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/dalpat_singh/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-js8d.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </p>
 
@@ -36,11 +58,13 @@ Spring Boot • Hibernate • React • SQL • REST API
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 B.Tech in Artificial Intelligence & Data Science
+🎓 **B.Tech in Artificial Intelligence & Data Science**
 
-💻 Passionate Java Full Stack Developer
+💻 Passionate **Java Full Stack Developer**
+
+🚀 Building scalable Full Stack Applications
 
 🌱 Currently Learning
 
@@ -49,56 +73,59 @@ Spring Boot • Hibernate • React • SQL • REST API
 - JPA
 - Microservices
 
-🚀 Building REST APIs
-
 🔥 Solving DSA using Java
 
-💡 Love Backend Development
+💡 Interested in Backend Development, REST APIs and React
 
-🎯 Goal
+🤝 Open to
 
-Become a Software Engineer at a Product Based Company
+- Software Developer
+- Java Developer
+- Full Stack Developer
+- Frontend Developer
+- Internship Opportunities
 
-📫 Email
+📫 **Email**
 
 **dalpatbhayal07@gmail.com**
 
-⚡ Fun Fact
+⚡ **Fun Fact**
 
 > Consistency beats Talent.
 
-<br><br>
+<br>
 
 ---
+
 # 🛠 Tech Stack
 
 <div align="center">
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp"/>
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
 
 ### ⚙ Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
 
 ### 🗄 Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
 ### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman"/>
 
 </div>
 
 ---
 
-# 🚀 Currently Learning
+# 📚 Currently Learning
 
 <p align="center">
 
@@ -113,43 +140,93 @@ Become a Software Engineer at a Product Based Company
 </p>
 
 ---
+# 🚀 Featured Projects
 
-# 📌 Featured Projects
+<div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-## 🚀 Employee Management System
+<h3 align="center">✅ Todo Management System</h3>
 
-✔ Spring Boot
+<p align="center">
 
-✔ Hibernate
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-✔ JPA
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
 
-✔ MySQL
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-✔ REST API
+</p>
 
-✔ CRUD Operations
+### ✨ Features
+
+- CRUD Operations
+- Authentication
+- REST APIs
+- Hibernate ORM
+- MySQL Database
+- MVC Architecture
+
+<p align="center">
+
+<a href="YOUR_TODO_GITHUB">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="YOUR_TODO_LIVE">
+
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
 
 </td>
 
 <td width="50%">
 
-## 🏠 House Price Prediction
+<h3 align="center">🏡 Gharpayy Growth Assignment</h3>
 
-✔ Python
+<p align="center">
 
-✔ Machine Learning
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-✔ Flask
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-✔ Regression
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-✔ Data Analysis
+</p>
+
+### ✨ Features
+
+- Responsive UI
+- Lead Management
+- Reusable Components
+- Clean Dashboard
+- Modern Design
+- Fast Performance
+
+<p align="center">
+
+<a href="YOUR_GHARPAYY_GITHUB">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://techblr-gharpayy-assignment-chi.vercel.app/">
+
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
 
 </td>
 
@@ -159,29 +236,83 @@ Become a Software Engineer at a Product Based Company
 
 <td width="50%">
 
-## 🚲 Bike Price Prediction
+<h3 align="center">🛒 E-Commerce Website</h3>
 
-✔ Python
+<p align="center">
 
-✔ Machine Learning
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-✔ Scikit-Learn
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-✔ Regression
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+### ✨ Features
+
+- Responsive Design
+- Product Listing
+- Interactive UI
+- Modern Layout
+- Mobile Friendly
+- Clean Interface
+
+<p align="center">
+
+<a href="https://github.com/Dalpatsinghbhayal/E-website">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://e-website-flax.vercel.app/">
+
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
 
 </td>
 
 <td width="50%">
 
-## 📧 Email Spam Detection
+<h3 align="center">🌐 Portfolio Website</h3>
 
-✔ Python
+<p align="center">
 
-✔ NLP
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-✔ Flask
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-✔ Scikit-Learn
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+### ✨ Features
+
+- Responsive Design
+- Smooth Animations
+- Projects Showcase
+- Skills Section
+- Contact Form
+- Mobile Friendly
+
+<p align="center">
+
+<a href="https://github.com/Dalpatsinghbhayal">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://portfolio-js8d.vercel.app/">
+
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
 
 </td>
 
@@ -189,189 +320,7 @@ Become a Software Engineer at a Product Based Company
 
 </table>
 
----
-
-# 🎯 2026 Goals
-
-- ✅ Crack a Product-Based Company
-- ✅ Master Spring Boot
-- ✅ Learn Microservices
-- ✅ Solve 500+ DSA Problems
-- ✅ Build 10+ Full Stack Projects
-- ✅ Contribute to Open Source
-
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dalpatsinghbhayal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalpatsinghbhayal&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dalpatsinghbhayal&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dalpatsinghbhayal&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dalpatsinghbhayal&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 🧠 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/dalpat_singh/">
-
-<img src="https://leetcard.jacoblin.cool/dalpat_singh?theme=dark&font=Baloo&ext=contest"/>
-
-</a>
-
-</div>
-
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/Dalpatsinghbhayal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/dalpat_singh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Open Source Journey
-
-```text
-2024  ████████░░░░░░░░░░░░░░░
-2025  ███████████████░░░░░░░░
-2026  ██████████████████████
-```
-
----
-
-# 🌟 Current Focus
-
-✔ Spring Boot
-
-✔ Hibernate
-
-✔ JPA
-
-✔ REST APIs
-
-✔ Microservices
-
-✔ Data Structures & Algorithms
-
-✔ System Design
-
----
-
-# 📅 2026 Roadmap
-
-🚀 Master Java
-
-🚀 Spring Boot
-
-🚀 Hibernate
-
-🚀 JPA
-
-🚀 Docker
-
-🚀 AWS
-
-🚀 Microservices
-
-🚀 Kafka
-
-🚀 Redis
-
----
-
-# 📬 Connect With Me
-
-<p align="center">
-
-<a href="mailto:dalpatbhayal07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dalpatsinghbhayal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/dalpat_singh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> "The expert in anything was once a beginner."
-
----
-
-<div align="center">
-
-## ⭐ Thanks for Visiting My Profile ⭐
-
-### Happy Coding 🚀
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
-
-</div>
