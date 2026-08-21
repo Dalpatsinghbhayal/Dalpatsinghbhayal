@@ -463,31 +463,37 @@ alt="Stars"
 
 ---
 
-# 🐍 Contribution Snake
+name: Generate Snake
 
-<div align="center">
+on:
+  workflow_dispatch:
 
-<picture>
+  schedule:
+    - cron: "0 0 * * *"
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/github-contribution-grid-snake-dark.svg"
-/>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
 
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/github-contribution-grid-snake.svg"
-/>
+    permissions:
+      contents: write
 
-<img
-src="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-width="95%"
-/>
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Dalpatsinghbhayal
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-</picture>
-
-</div>
+      - name: Deploy Snake
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
 
 ---
 
