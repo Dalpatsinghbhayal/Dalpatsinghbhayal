@@ -463,37 +463,31 @@ alt="Stars"
 
 ---
 
-name: Generate Snake
+# 🐍 Contribution Snake
 
-on:
-  workflow_dispatch:
+<div align="center">
 
-  schedule:
-    - cron: "0 0 * * *"
+<picture>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/github-contribution-grid-snake-dark.svg"
+  />
 
-    permissions:
-      contents: write
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/github-contribution-grid-snake.svg"
+  />
 
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Dalpatsinghbhayal
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+  <img
+    src="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
 
-      - name: Deploy Snake
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+</picture>
+
+</div>
 
 ---
 
@@ -502,13 +496,61 @@ jobs:
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/profile-night-rainbow.svg"
-width="95%"
-alt="3D GitHub Contribution Graph"
+  src="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/main/profile-3d-contrib/profile-night-rainbow.svg"
+  alt="3D GitHub Contribution Graph"
+  width="95%"
 />
 
 </div>
 
+---
+
+# 📊 GitHub Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://ghchart.rshah.org/0e75b6/Dalpatsinghbhayal"
+  alt="Dalpat Singh GitHub Contribution Graph"
+  width="95%"
+/>
+
+</div>
+
+---
+
+# 🏆 GitHub Profile
+
+<div align="center">
+
+<a href="https://github.com/Dalpatsinghbhayal">
+
+<img
+  src="https://img.shields.io/github/followers/Dalpatsinghbhayal?label=Followers&style=for-the-badge&logo=github"
+  alt="GitHub Followers"
+/>
+
+</a>
+
+<a href="https://github.com/Dalpatsinghbhayal?tab=repositories">
+
+<img
+  src="https://img.shields.io/badge/Repositories-View%20Repositories-181717?style=for-the-badge&logo=github"
+  alt="Repositories"
+/>
+
+</a>
+
+<a href="https://github.com/Dalpatsinghbhayal?tab=stars">
+
+<img
+  src="https://img.shields.io/badge/Stars-View%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black"
+  alt="GitHub Stars"
+/>
+
+</a>
+
+</div>
 ---
 
 # 💻 Coding Profiles
