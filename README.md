@@ -491,29 +491,69 @@ alt="Stars"
 
 ---
 
-# 🧊 3D Contribution Graph
+# 🧊 GitHub Contributions
 
 <div align="center">
 
+### 🚀 My GitHub Activity
+
+<a href="https://github.com/Dalpatsinghbhayal">
+
 <img
-  src="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/main/profile-3d-contrib/profile-night-rainbow.svg"
-  alt="3D GitHub Contribution Graph"
-  width="95%"
+src="https://img.shields.io/github/followers/Dalpatsinghbhayal?style=for-the-badge&logo=github&label=FOLLOWERS"
+alt="GitHub Followers"
 />
+
+<img
+src="https://img.shields.io/github/stars/Dalpatsinghbhayal?style=for-the-badge&logo=github&label=STARS"
+alt="GitHub Stars"
+/>
+
+<img
+src="https://img.shields.io/github/commit-activity/y/Dalpatsinghbhayal/Dalpatsinghbhayal?style=for-the-badge&logo=git&label=YEARLY%20COMMITS"
+alt="Yearly Commits"
+/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/Dalpatsinghbhayal?tab=repositories">
+
+<img
+src="https://img.shields.io/badge/📦%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="My Repositories"
+/>
+
+</a>
 
 </div>
 
 ---
 
-# 📊 GitHub Contribution Activity
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img
-  src="https://ghchart.rshah.org/0e75b6/Dalpatsinghbhayal"
-  alt="Dalpat Singh GitHub Contribution Graph"
-  width="95%"
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/github-contribution-grid-snake-dark.svg"
 />
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+width="95%"
+/>
+
+</picture>
 
 </div>
 
@@ -526,8 +566,8 @@ alt="Stars"
 <a href="https://github.com/Dalpatsinghbhayal">
 
 <img
-  src="https://img.shields.io/github/followers/Dalpatsinghbhayal?label=Followers&style=for-the-badge&logo=github"
-  alt="GitHub Followers"
+src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub Profile"
 />
 
 </a>
@@ -535,23 +575,22 @@ alt="Stars"
 <a href="https://github.com/Dalpatsinghbhayal?tab=repositories">
 
 <img
-  src="https://img.shields.io/badge/Repositories-View%20Repositories-181717?style=for-the-badge&logo=github"
-  alt="Repositories"
+src="https://img.shields.io/badge/Repositories-View%20All-0969DA?style=for-the-badge&logo=github&logoColor=white"
+alt="Repositories"
 />
 
 </a>
 
-<a href="https://github.com/Dalpatsinghbhayal?tab=stars">
+<a href="https://github.com/Dalpatsinghbhayal?tab=followers">
 
 <img
-  src="https://img.shields.io/badge/Stars-View%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black"
-  alt="GitHub Stars"
+src="https://img.shields.io/badge/Followers-Connect-2EA44F?style=for-the-badge&logo=github&logoColor=white"
+alt="Followers"
 />
 
 </a>
 
 </div>
----
 
 # 💻 Coding Profiles
 
