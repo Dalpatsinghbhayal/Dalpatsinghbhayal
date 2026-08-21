@@ -1,42 +1,33 @@
-<div align="center">
+# 👋 Hi, I'm Dalpat Singh
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Dalpat%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+### 🚀 Java Full Stack Developer | Java | Spring Boot | React.js | Hibernate | MySQL
 
-# Hi 👋, I'm Dalpat Singh
-
-### 🚀 Java Full Stack Developer | Spring Boot | React | Hibernate | MySQL
-
-<p align="center">
-
-<a href="mailto:dalpatbhayal07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Dalpatsinghbhayal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/dalpat_singh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-js8d.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Dalpatsinghbhayal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dalpatsinghbhayal?label=Followers&style=flat" alt="GitHub Followers" />
 </p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;REST+API+Developer;Open+Source+Learner;Always+Learning+🚀"/>
-
-</div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
+
+I'm a **Java Full Stack Developer** passionate about building scalable, responsive, and user-friendly web applications.
+
+I enjoy working across the complete development lifecycle — from designing modern frontend interfaces to developing backend APIs, implementing business logic, and integrating databases.
+
+* 🎓 B.Tech in **Artificial Intelligence & Data Science**
+* 💻 Focused on **Java Full Stack Development**
+* ⚙️ Currently learning **Spring Boot & Microservices**
+* ⚛️ Experienced with **React.js & JavaScript**
+* 🗄️ Working with **Hibernate, JPA & MySQL**
+* 🔌 Building and consuming **REST APIs**
+* 🧠 Practicing **DSA using Java**
+* 🚀 Interested in building real-world production applications
+* 💼 Open to **Software Developer / Java Full Stack opportunities**
+
+---
+
+## 🧑‍💻 My Developer Profile
 
 ```java
 public class DalpatSingh {
@@ -44,472 +35,462 @@ public class DalpatSingh {
     String role = "Java Full Stack Developer";
 
     String education =
-        "B.Tech (Artificial Intelligence & Data Science)";
+            "B.Tech in Artificial Intelligence & Data Science";
 
-    String currentLearning =
-        "Spring Boot, Hibernate, JPA, Microservices";
+    String languages =
+            "Java, JavaScript, Python, C, C++, SQL";
 
-    String interests =
-        "Backend Development, React, REST APIs";
+    String frontend =
+            "HTML, CSS, JavaScript, React.js";
+
+    String backend =
+            "Java, Spring Boot, Hibernate, JPA, REST APIs";
+
+    String databases =
+            "MySQL, MongoDB";
+
+    String tools =
+            "Git, GitHub, Postman, Maven, IntelliJ IDEA, VS Code";
+
+    String currentlyLearning =
+            "Spring Boot, Microservices, Docker, AWS";
 
     String goal =
-        "Software Development Engineer";
-
+            "Become a strong Software Engineer";
 }
 ```
 
-- 💻 Passionate Java Full Stack Developer
-- 🌱 Currently learning Spring Boot & Microservices
-- 🚀 Building scalable web applications
-- 🔥 Solving DSA using Java
-- 🤝 Open to Internship & Full-Time Opportunities
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,mysql" />
+</p>
+
+* Java
+* JavaScript
+* Python
+* C
+* C++
+* SQL
 
 ---
 
-# 🛠 Tech Stack
+## 🎨 Frontend Development
 
-### 💻 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=sql"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### 🌐 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-</p>
-
-### ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=maven"/>
-
-</p>
-
-### 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-</p>
-
-### 🧰 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-</p>
+* HTML5
+* CSS3
+* JavaScript ES6+
+* React.js
+* Context API
+* Responsive Web Design
+* REST API Integration
 
 ---
+
+## ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
+
+* Core Java
+* Advanced Java
+* Spring Boot
+* Spring MVC
+* Hibernate
+* JPA
+* JDBC
+* REST APIs
+* CRUD Operations
+* MVC Architecture
+* Exception Handling
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+* MySQL
+* MongoDB
+* Database Design
+* SQL Queries
+* Joins
+* CRUD Operations
+* JDBC Connectivity
+* Hibernate ORM
+
+---
+
+## 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,docker" />
+</p>
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* VS Code
+* Postman
+* Maven
+* Docker
+* REST API Testing
+
+---
+
 # 🚀 Featured Projects
 
-<div align="center">
+## 🛒 E-Commerce Web Application
 
-<table>
+**React.js | JavaScript | HTML | CSS | REST APIs**
 
-<tr>
-
-<td width="50%">
-
-<h3 align="center">📝 Todo Management System</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
+A modern e-commerce web application focused on creating a responsive and interactive shopping experience.
 
 ### ✨ Features
 
-- ✅ User Authentication
-- ✅ CRUD Operations
-- ✅ REST APIs
-- ✅ Hibernate ORM
-- ✅ MySQL Integration
-- ✅ Responsive UI
-
-<p align="center">
-
-<a href="YOUR_TODO_GITHUB">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="YOUR_TODO_LIVE">
-
-<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🏠 Gharpayy Growth Assignment</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-</p>
-
-### ✨ Features
-
-- ✅ Lead Management
-- ✅ Responsive Dashboard
-- ✅ Modern UI
-- ✅ Reusable Components
-- ✅ TypeScript Support
-- ✅ Fast Performance
-
-<p align="center">
-
-<a href="YOUR_GHARPAYY_GITHUB">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://techblr-gharpayy-assignment-chi.vercel.app/">
-
-<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🛒 E-Commerce Website</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</p>
-
-### ✨ Features
-
-- ✅ Responsive Design
-- ✅ Product Listing
-- ✅ Interactive UI
-- ✅ Mobile Friendly
-- ✅ Clean Layout
-- ✅ Modern Interface
-
-<p align="center">
-
-<a href="https://github.com/Dalpatsinghbhayal/E-website">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://e-website-flax.vercel.app/">
-
-<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🌐 Portfolio Website</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</p>
-
-### ✨ Features
-
-- ✅ Responsive Portfolio
-- ✅ Smooth Animations
-- ✅ Project Showcase
-- ✅ Skills Section
-- ✅ Contact Section
-- ✅ Modern UI
-
-<p align="center">
-
-<a href="https://github.com/Dalpatsinghbhayal">
-
-<!-- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> -->
-
-</a>
-
-<a href="https://portfolio-js8d.vercel.app/">
-
-<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dalpatsinghbhayal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalpatsinghbhayal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Dalpatsinghbhayal&theme=tokyonight&hide_border=true"/>
-
-</div>
+* 🛍️ Product listing
+* 🔎 Product search
+* 🛒 Shopping cart
+* 📱 Responsive design
+* ⚛️ Reusable React components
+* 🔄 API integration
+* 🎨 Modern user interface
 
 ---
 
-# 💻 LeetCode
+## 📝 Todo Management System
 
-<div align="center">
+**Java | Spring Boot | Hibernate | JPA | MySQL | React.js**
 
-<a href="https://leetcode.com/u/dalpat_singh/">
+A full-stack task management application designed to perform complete CRUD operations.
 
-<img src="https://leetcard.jacoblin.cool/dalpat_singh?theme=dark&font=Baloo&ext=contest"/>
+### ✨ Features
 
-</a>
+* ➕ Create tasks
+* ✏️ Update tasks
+* 🗑️ Delete tasks
+* 📋 View tasks
+* 🔌 REST API integration
+* 🗄️ MySQL database
+* ⚙️ Hibernate/JPA ORM
+* ⚛️ React frontend
+* 📱 Responsive UI
 
-</div>
+---
+
+## 🌐 Personal Developer Portfolio
+
+**React.js | JavaScript | CSS**
+
+My personal portfolio website showcasing my technical skills, projects, education, and development journey.
+
+### 🔗 Live Portfolio
+
+👉 https://portfolio-js8d.vercel.app/
+
+### ✨ Highlights
+
+* Responsive design
+* Project showcase
+* Skills section
+* About section
+* Contact section
+* Modern UI
+
+---
+
+# 🤖 Machine Learning Projects
+
+Along with Full Stack Development, I have hands-on experience building Machine Learning applications using Python.
+
+---
+
+## 🚲 Bike Value Prediction
+
+**Python | Machine Learning | Scikit-learn | Flask**
+
+A machine learning application that predicts the estimated value of a bike based on different input features.
+
+### ✨ Features
+
+* Data preprocessing
+* Exploratory Data Analysis
+* Machine Learning model
+* Prediction system
+* Flask web application
+* REST API integration
+
+---
+
+## 📧 Email Classification System
+
+**Python | Machine Learning | Flask**
+
+A machine learning-based application that classifies emails as **Spam or Ham**.
+
+### ✨ Features
+
+* Text preprocessing
+* Feature extraction
+* Classification model
+* Spam detection
+* Flask backend
+* Web interface
+
+---
+
+## 🏠 House Price Prediction
+
+**Python | Scikit-learn | Flask | Machine Learning**
+
+A regression-based machine learning application for predicting house prices using property-related features.
+
+### ✨ Features
+
+* Data preprocessing
+* Feature engineering
+* Regression model
+* Model evaluation
+* Flask application
+* Prediction interface
+
+---
+
+## 🎬 Movie Recommendation System
+
+**Python | Machine Learning | Streamlit**
+
+A recommendation system designed to recommend movies based on similarity between movies and user preferences.
+
+### ✨ Features
+
+* Recommendation algorithm
+* Data preprocessing
+* Similarity calculation
+* Interactive Streamlit interface
+* Movie recommendations
+
+---
+
+# 🧠 Data Structures & Algorithms
+
+I'm actively practicing **Data Structures & Algorithms using Java** for technical interviews and problem-solving.
+
+### 📚 Topics
+
+* Arrays
+* Strings
+* Searching
+* Sorting
+* Hashing
+* Recursion
+* Two Pointer
+* Sliding Window
+* Linked List
+* Stack
+* Queue
+* Binary Search
+* Trees
+* Graphs
+* Dynamic Programming
+
+### 🎯 Goal
+
+**Solve 500+ DSA problems and strengthen problem-solving skills for software engineering interviews.**
+
+---
+
+# 📚 Currently Learning
+
+| Technology    | Status        |
+| ------------- | ------------- |
+| Java          | 🟢 Strong     |
+| JavaScript    | 🟢 Strong     |
+| React.js      | 🟢 Strong     |
+| MySQL         | 🟢 Strong     |
+| Hibernate     | 🟢 Learning   |
+| JPA           | 🟢 Learning   |
+| Spring Boot   | 🟢 Learning   |
+| REST APIs     | 🟢 Learning   |
+| Microservices | 🟡 Learning   |
+| Docker        | 🟡 Exploring  |
+| AWS           | 🟡 Exploring  |
+| DSA           | 🟢 Practicing |
+
+---
+
+# 🎯 2026 Goals
+
+* [x] Strengthen Core Java
+* [x] Learn JavaScript
+* [x] Learn React.js
+* [x] Learn MySQL
+* [x] Learn Hibernate & JPA
+* [ ] Master Spring Boot
+* [ ] Build production-level Full Stack applications
+* [ ] Learn Microservices
+* [ ] Learn Docker
+* [ ] Learn AWS
+* [ ] Solve 500+ DSA problems
+* [ ] Contribute to Open Source
+* [ ] Build scalable backend systems
+* [ ] Secure a Software Developer role
+
+---
+
+# 💼 Career Interests
+
+I'm interested in opportunities related to:
+
+* 💻 Java Full Stack Development
+* ⚙️ Backend Development
+* 🚀 Spring Boot Development
+* ⚛️ React.js Development
+* 🔌 REST API Development
+* 🗄️ Database Development
+* 🌐 Software Engineering
+* 🏗️ Scalable Web Applications
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dalpatsinghbhayal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Dalpat's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalpatsinghbhayal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dalpatsinghbhayal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dalpatsinghbhayal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dalpatsinghbhayal&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dalpatsinghbhayal&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+# 💼 Experience & Training
 
-<div align="center">
+### 👨‍💻 Data Science / Machine Learning Internship
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+Worked on Machine Learning and Data Science applications involving:
 
-</div>
-
----
-
-# 🏅 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java_Full_Stack-KodNest-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Celebal_Internship-2025-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Udemy-Java-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HP_LIFE-Data_Analytics-brightgreen?style=for-the-badge"/>
-
-</div>
+* Data preprocessing
+* Exploratory Data Analysis
+* Predictive modeling
+* Machine Learning pipelines
+* Flask applications
+* REST API integration
+* Model deployment
 
 ---
 
-# 💼 Coding Profiles
+### 🌐 Full Stack Development Training
 
-<div align="center">
+Hands-on experience with:
 
-<a href="https://github.com/Dalpatsinghbhayal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+* React.js
+* JavaScript
+* HTML
+* CSS
+* Node.js
+* MongoDB
+* REST APIs
+* Full Stack application development
 
-<a href="https://leetcode.com/u/dalpat_singh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
+---
+
+# 📜 Certifications & Learning
+
+* Java & C++ Training
+* Full Stack Development
+* Python & Django
+* Web Development
+* Database Management Systems
+* Python Libraries
+* Java Programming
+* Machine Learning
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
 
 <a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://portfolio-js8d.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-| 🚀 Learning | 💻 Building | 🎯 Goal |
-|-------------|------------|---------|
-| Spring Boot | Full Stack Projects | Software Development Engineer |
-| Hibernate | REST APIs | Product & Service Based Companies |
-| Microservices | React Applications | Open Source Contributions |
-| DSA (Java) | Java Backend | Continuous Learning |
-
-</div>
-
----
-
-# 🗺️ 2026 Roadmap
-
-- ✅ Master Java Core & Advanced Java
-- ✅ Build 10+ Full Stack Projects
-- ✅ Master Spring Boot & Hibernate
-- ✅ Learn Microservices
-- ✅ Learn Docker
-- ✅ Learn AWS Basics
-- ✅ Solve 500+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Developer Role
-
----
-
-# 📈 2026 Goals
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| Java Full Stack | 🟢 In Progress |
-| Spring Boot | 🟢 In Progress |
-| Hibernate | 🟢 In Progress |
-| React | 🟢 In Progress |
-| Docker | 🟡 Planned |
-| AWS | 🟡 Planned |
-| Microservices | 🟢 Learning |
-| Open Source | 🟢 Active |
-
-</div>
-
----
-
-# 🌟 Beyond Coding
-
-- 🧩 Solving DSA Problems
-- 📚 Learning New Technologies
-- 🤝 Contributing to Open Source
-- 🌐 Building Real-World Projects
-- 💡 Exploring Software Architecture
-
----
-
-# 📬 Connect With Me
-
-<div align="center">
-
-<a href="mailto:dalpatbhayal07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Dalpatsinghbhayal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://portfolio-js8d.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 💡 Quote
+# 💬 Let's Connect
 
-<div align="center">
+I'm always interested in discussing:
 
-> **"Success is built one commit, one bug fix, and one lesson at a time."**
+* Java Development
+* Spring Boot
+* React.js
+* Full Stack Development
+* Software Engineering
+* DSA & Problem Solving
+* Open Source
+* New Technologies
 
-</div>
+Feel free to connect with me and explore my repositories.
 
 ---
 
-<div align="center">
+# ⚡ Developer Quote
 
-## ⭐ Thanks for Visiting My Profile
+> **"Great developers are built one project, one bug, and one commit at a time."**
 
-### If you like my work, don't forget to ⭐ my repositories!
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
+<p align="center">
 
-</div>
+### ⭐ If you like my work, consider giving my repositories a star!
+
+### 🚀 Keep Coding • Keep Building • Keep Learning
+
+</p>
