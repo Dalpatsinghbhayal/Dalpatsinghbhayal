@@ -302,37 +302,34 @@ Machine learning based loan approval project.
 https://github.com/Dalpatsinghbhayal/loan_approval_deeplearnig
 
 ---
-
 # 📦 Project Cards
 
 <div align="center">
 
 <a href="https://github.com/Dalpatsinghbhayal/bike_prediction">
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=Dalpatsinghbhayal&repo=bike_prediction&theme=tokyonight&hide_border=true"
-alt="Bike Prediction"
+src="https://github.com/Dalpatsinghbhayal/bike_prediction/raw/main/README.md"
+alt="Bike Prediction Repository"
 />
 </a>
 
 <a href="https://github.com/Dalpatsinghbhayal/email_classification">
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=Dalpatsinghbhayal&repo=email_classification&theme=tokyonight&hide_border=true"
+src="https://img.shields.io/badge/Email%20Classification-Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"
 alt="Email Classification"
 />
 </a>
 
-<br>
-
 <a href="https://github.com/Dalpatsinghbhayal/deep-learning">
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=Dalpatsinghbhayal&repo=deep-learning&theme=tokyonight&hide_border=true"
+src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
 alt="Deep Learning"
 />
 </a>
 
 <a href="https://github.com/Dalpatsinghbhayal/game">
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=Dalpatsinghbhayal&repo=game&theme=tokyonight&hide_border=true"
+src="https://img.shields.io/badge/Python-Game-3776AB?style=for-the-badge&logo=python&logoColor=white"
 alt="Python Game"
 />
 </a>
@@ -345,12 +342,59 @@ alt="Python Game"
 
 <div align="center">
 
+<img
+src="https://img.shields.io/github/followers/Dalpatsinghbhayal?label=Followers&style=for-the-badge&logo=github"
+alt="GitHub Followers"
+/>
+
+<img
+src="https://img.shields.io/github/stars/Dalpatsinghbhayal?label=Stars&style=for-the-badge&logo=github"
+alt="GitHub Stars"
+/>
+
+<img
+src="https://img.shields.io/github/commit-activity/y/Dalpatsinghbhayal/Dalpatsinghbhayal?label=Commits&style=for-the-badge&logo=github"
+alt="Commit Activity"
+/>
+
+<img
+src="https://img.shields.io/github/last-commit/Dalpatsinghbhayal/Dalpatsinghbhayal?style=for-the-badge&logo=github"
+alt="Last Commit"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Dalpatsinghbhayal?tab=repositories">
+<img
+src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="Repositories"
+/>
+</a>
+
+<a href="https://github.com/Dalpatsinghbhayal?tab=stars">
+<img
+src="https://img.shields.io/badge/Starred%20Repositories-View-FFD700?style=for-the-badge&logo=github&logoColor=black"
+alt="Starred Repositories"
+/>
+</a>
+
+</div>
+
+---
+
+# 🔥 GitHub Activity
+
+<div align="center">
+
 <a href="https://github.com/Dalpatsinghbhayal">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Dalpatsinghbhayal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"
-height="180"
-alt="GitHub Statistics"
+src="https://img.shields.io/github/commit-activity/m/Dalpatsinghbhayal/Dalpatsinghbhayal?label=Monthly%20Commits&style=for-the-badge&logo=git"
+alt="Monthly Commits"
 />
 
 </a>
@@ -358,9 +402,8 @@ alt="GitHub Statistics"
 <a href="https://github.com/Dalpatsinghbhayal">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalpatsinghbhayal&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"
-height="180"
-alt="Most Used Languages"
+src="https://img.shields.io/github/commit-activity/y/Dalpatsinghbhayal/Dalpatsinghbhayal?label=Yearly%20Commits&style=for-the-badge&logo=git"
+alt="Yearly Commits"
 />
 
 </a>
@@ -369,41 +412,52 @@ alt="Most Used Languages"
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com/?user=Dalpatsinghbhayal&theme=tokyonight&hide_border=true&border_radius=10"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
+### GitHub Contribution Calendar
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Dalpatsinghbhayal&theme=tokyo-night&hide_border=true&area=true&custom_title=Dalpat%20Singh%20Contribution%20Graph"
+src="https://ghchart.rshah.org/0e75b6/Dalpatsinghbhayal"
+alt="Dalpat Singh GitHub Contribution Graph"
 width="95%"
-alt="Contribution Activity"
 />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
+<a href="https://github.com/Dalpatsinghbhayal">
+
 <img
-src="https://github-profile-trophy.vercel.app/?username=Dalpatsinghbhayal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-alt="GitHub Trophies"
+src="https://img.shields.io/github/followers/Dalpatsinghbhayal?label=GitHub%20Followers&style=for-the-badge&logo=github"
+alt="Followers"
 />
+
+</a>
+
+<a href="https://github.com/Dalpatsinghbhayal?tab=repositories">
+
+<img
+src="https://img.shields.io/github/repo-count/Dalpatsinghbhayal?style=for-the-badge&logo=github&label=Repositories"
+alt="Repositories"
+/>
+
+</a>
+
+<a href="https://github.com/Dalpatsinghbhayal?tab=stars">
+
+<img
+src="https://img.shields.io/github/stars/Dalpatsinghbhayal?style=for-the-badge&logo=github&label=Total%20Stars"
+alt="Stars"
+/>
+
+</a>
 
 </div>
 
@@ -442,9 +496,9 @@ width="95%"
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/main/profile-3d-contrib/profile-night-rainbow.svg"
+src="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/profile-night-rainbow.svg"
 width="95%"
-alt="3D Contribution Graph"
+alt="3D GitHub Contribution Graph"
 />
 
 </div>
@@ -456,19 +510,31 @@ alt="3D Contribution Graph"
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+<img
+src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+alt="LeetCode"
+/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+<img
+src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
+alt="HackerRank"
+/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+<img
+src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+alt="GeeksforGeeks"
+/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+<img
+src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
+alt="CodeChef"
+/>
 </a>
 
 </div>
@@ -479,36 +545,73 @@ alt="3D Contribution Graph"
 
 <div align="center">
 
+<a href="https://leetcode.com/">
+
 <img
-src="https://leetcard.jacoblin.cool/?theme=dark&font=Baloo&ext=heatmap"
-width="500"
-alt="LeetCode Statistics"
+src="https://img.shields.io/badge/LeetCode-View%20Profile-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+alt="LeetCode Profile"
 />
+
+</a>
 
 </div>
 
-> Add your exact LeetCode username to enable the live LeetCode card.
+> 🔹 Add your actual LeetCode username later and I will add your live statistics card.
 
 ---
 
 # 🧠 Data Structures & Algorithms
 
-### Java DSA Topics
+## ☕ Java DSA
+
+<div align="center">
+
+| Topic | Status |
+|:---|:---:|
+| Arrays | ✅ |
+| Strings | ✅ |
+| Searching | ✅ |
+| Sorting | ✅ |
+| HashMap | ✅ |
+| HashSet | ✅ |
+| Stack | ✅ |
+| Queue | 🔄 |
+| Linked List | 🔄 |
+| Recursion | 🔄 |
+| Two Pointer | 🔄 |
+| Sliding Window | 🔄 |
+| Binary Search | 🔄 |
+| Trees | 🔵 |
+| Graphs | 🔵 |
+| Dynamic Programming | 🔵 |
+
+</div>
+
+### Problem Solving Approach
 
 ```text
-Arrays
-Strings
-Searching
-Sorting
-HashMap
-HashSet
-Stack
-Queue
-Linked List
-Recursion
-Two Pointer
-Sliding Window
-Binary Search
-Trees
-Graphs
-Dynamic Programming
+             PROBLEM
+                │
+                ▼
+       Understand Problem
+                │
+                ▼
+          Find Approach
+                │
+                ▼
+         Brute Force
+                │
+                ▼
+           Optimize
+                │
+                ▼
+      Complexity Analysis
+                │
+                ▼
+         Java Solution
+                │
+                ▼
+        Test Edge Cases
+                │
+                ▼
+             DONE 🚀
