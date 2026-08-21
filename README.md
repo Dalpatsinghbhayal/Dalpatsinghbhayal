@@ -1,22 +1,10 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                         HERO                              -->
-<!-- ========================================================= -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:2563eb&text=DALPAT%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=62&descColor=93c5fd"
-  width="100%"
-  alt="Dalpat Singh Java Full Stack Developer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0f172a,100:2563eb&text=DALPAT%20SINGH&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=21&descAlignY=63&descColor=93c5fd" width="100%" alt="Dalpat Singh - Java Full Stack Developer"/>
 
 <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+Hibernate+%7C+JPA;React.js+%7C+JavaScript+%7C+REST+APIs;MySQL+%7C+Git+%7C+GitHub+%7C+Postman;Building+Modern+Full+Stack+Applications;Currently+Learning+Spring+Boot+%26+Microservices"
-  width="850"
-  alt="Animated developer introduction"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+Hibernate+%7C+JPA;React.js+%7C+JavaScript+%7C+REST+APIs;MySQL+%7C+Git+%7C+GitHub+%7C+Postman;Building+Modern+Full+Stack+Applications;Currently+Learning+Spring+Boot+%26+Microservices" width="850" alt="Animated developer introduction"/>
 
 <br/><br/>
 
@@ -38,10 +26,7 @@
 
 <br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=Dalpatsinghbhayal&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=Dalpatsinghbhayal&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
