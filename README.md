@@ -1,106 +1,83 @@
-<!-- ========================================================= -->
-
-<!--                    ANIMATED HEADER                        -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,16,18,20&text=DALPAT%20SINGH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=62&descAlign=50"/>
+<!-- ======================= HERO ======================= -->
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:2563eb&text=DALPAT%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=62&descColor=93c5fd" width="100%" alt="Dalpat Singh - Java Full Stack Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+JPA;React.js+%7C+JavaScript+%7C+REST+APIs;MySQL+%7C+Git+%7C+GitHub+%7C+Postman;Building+Scalable+%26+Real-World+Applications;Currently+Learning+Microservices+%26+Cloud"/>
+<br/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+Hibernate+%7C+JPA;React.js+%7C+JavaScript+%7C+REST+APIs;MySQL+%7C+Git+%7C+GitHub+%7C+Postman;Building+Modern+Full+Stack+Applications;Learning+Microservices+%26+Cloud" width="850" alt="Typing animation"/>
+
+<br/><br/>
 
 <a href="https://github.com/Dalpatsinghbhayal">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://portfolio-js8d.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br><br>
+<a href="https://shopnestcom-eight.vercel.app/">
+<img src="https://img.shields.io/badge/ShopNest-Live%20Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="ShopNest Live Demo"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Dalpatsinghbhayal&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Dalpatsinghbhayal&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                       ABOUT ME                            -->
-
-<!-- ========================================================= -->
-
 # 👨‍💻 About Me
 
-```java
-public class DalpatSingh {
+I'm **Dalpat Singh**, a **Java Full Stack Developer** focused on building scalable, responsive and maintainable web applications.
 
-    String role = "Java Full Stack Developer";
+I enjoy working across the complete development lifecycle — from creating modern React interfaces to developing Java backend services, REST APIs and database-driven applications.
 
-    String[] backend = {
-        "Java",
-        "Spring Boot",
-        "Hibernate",
-        "JPA",
-        "REST APIs"
-    };
-
-    String[] frontend = {
-        "React.js",
-        "JavaScript",
-        "HTML5",
-        "CSS3"
-    };
-
-    String[] database = {
-        "MySQL",
-        "MongoDB"
-    };
-
-    String[] tools = {
-        "Git",
-        "GitHub",
-        "Postman",
-        "Maven",
-        "IntelliJ IDEA"
-    };
-
-    String currentlyLearning =
-        "Spring Boot, Microservices, Docker & AWS";
-
-    String goal =
-        "Build scalable software products";
-}
+```text
+┌────────────────────────────────────────────────────────────┐
+│                      DALPAT SINGH                          │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  Role        → Java Full Stack Developer                   │
+│  Education   → B.Tech in AI & Data Science                 │
+│                                                            │
+│  Backend     → Java • Spring Boot • Hibernate • JPA        │
+│  Frontend    → React.js • JavaScript • HTML • CSS          │
+│  Database    → MySQL • MongoDB                             │
+│  APIs        → REST APIs                                   │
+│  Tools       → Git • GitHub • Postman • Maven              │
+│                                                            │
+│  Learning    → Spring Boot • Microservices • Docker        │
+│  Goal        → Software Engineer                           │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
-> **Java Full Stack Developer** focused on building clean, scalable and user-friendly applications using modern frontend and backend technologies.
+### What I work with
 
-* 🎓 B.Tech in **Artificial Intelligence & Data Science**
-* 💻 Focused on **Java Full Stack Development**
-* ⚙️ Building backend applications using **Spring Boot**
-* ⚛️ Developing modern UIs using **React.js**
-* 🗄️ Working with **Hibernate, JPA & MySQL**
-* 🔌 Building and consuming **REST APIs**
-* 🧠 Practicing **DSA using Java**
-* 🌱 Currently learning **Microservices, Docker & AWS**
+* ☕ Java and Object-Oriented Programming
+* ⚙️ Spring Boot and REST APIs
+* 🔗 Hibernate and JPA
+* ⚛️ React.js and JavaScript
+* 🗄️ MySQL and database integration
+* 🧠 Data Structures & Algorithms using Java
+* 🔧 Git, GitHub and Postman
+* 🚀 Full Stack application development
 
 ---
 
-# ⚡ My Development Philosophy
+# ⚡ Developer Mindset
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=800&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve;Clean+Code+%7C+Problem+Solving+%7C+Continuous+Learning;Build+Real+Things.+Solve+Real+Problems."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FF9C&center=true&vCenter=true&width=800&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve;Clean+Code+%7C+Problem+Solving+%7C+Continuous+Learning;Build+Real+Things.+Solve+Real+Problems." width="800" alt="Developer mindset animation"/>
 
 </div>
 
@@ -111,46 +88,41 @@ public class DalpatSingh {
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                         USER                                 │
-└────────────────────────────┬─────────────────────────────────┘
-                             │
-                             ▼
-┌──────────────────────────────────────────────────────────────┐
-│                         FRONTEND                             │
-│                                                              │
-│              React.js • JavaScript • HTML • CSS              │
-└────────────────────────────┬─────────────────────────────────┘
-                             │
-                         REST API
-                             │
-                             ▼
-┌──────────────────────────────────────────────────────────────┐
-│                          BACKEND                             │
-│                                                              │
-│              Java • Spring Boot • Spring MVC                 │
-└────────────────────────────┬─────────────────────────────────┘
-                             │
-                             ▼
-┌──────────────────────────────────────────────────────────────┐
-│                       BUSINESS LOGIC                         │
-│                                                              │
-│                    Service Layer                             │
-└────────────────────────────┬─────────────────────────────────┘
-                             │
-                             ▼
-┌──────────────────────────────────────────────────────────────┐
-│                    PERSISTENCE LAYER                         │
-│                                                              │
-│                  JPA • Hibernate • ORM                       │
-└────────────────────────────┬─────────────────────────────────┘
-                             │
-                             ▼
-┌──────────────────────────────────────────────────────────────┐
-│                         DATABASE                             │
-│                                                              │
-│                    MySQL • MongoDB                            │
-└──────────────────────────────────────────────────────────────┘
+                         ┌───────────────┐
+                         │     USER      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────┐
+                    │       React.js       │
+                    │ JavaScript / HTML/CSS│
+                    └──────────┬───────────┘
+                               │
+                            REST API
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │     Spring Boot      │
+                    │    REST Services     │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    Service Layer     │
+                    │    Business Logic    │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ Repository / JPA      │
+                    │     Hibernate ORM     │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │        MySQL         │
+                    │       Database       │
+                    └──────────────────────┘
 ```
 
 </div>
@@ -161,11 +133,11 @@ public class DalpatSingh {
 
 ## ☕ Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
-</p>
-
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" width="320" alt="Java Spring Hibernate Maven"/>
+
+<br/><br/>
 
 `Java` • `Spring Boot` • `Spring MVC` • `Hibernate` • `JPA` • `JDBC` • `REST APIs`
 
@@ -175,13 +147,13 @@ public class DalpatSingh {
 
 ## ⚛️ Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-</p>
-
 <div align="center">
 
-`React.js` • `JavaScript ES6+` • `HTML5` • `CSS3` • `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" width="380" alt="React JavaScript HTML CSS Tailwind"/>
+
+<br/><br/>
+
+`React.js` • `JavaScript ES6+` • `HTML5` • `CSS3` • `Tailwind CSS` • `Context API`
 
 </div>
 
@@ -189,11 +161,11 @@ public class DalpatSingh {
 
 ## 🗄️ Database
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" width="180" alt="MySQL MongoDB"/>
+
+<br/><br/>
 
 `MySQL` • `MongoDB` • `SQL` • `JPA` • `Hibernate ORM`
 
@@ -203,13 +175,9 @@ public class DalpatSingh {
 
 ## 🔧 Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker" />
-</p>
-
 <div align="center">
 
-`Git` • `GitHub` • `IntelliJ IDEA` • `VS Code` • `Postman` • `Maven` • `Docker`
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker" width="430" alt="Git GitHub IntelliJ VS Code Postman Docker"/>
 
 </div>
 
@@ -217,117 +185,197 @@ public class DalpatSingh {
 
 # 🚀 Featured Projects
 
-## 🛒 E-Commerce Application
+## 🛍️ ShopNest
 
-**Java • Spring Boot • Hibernate • JPA • MySQL • React.js**
+### Full Stack E-Commerce Application
 
-A full-stack e-commerce application focused on real-world backend architecture and frontend integration.
+**React.js • JavaScript • Tailwind CSS • Context API • LocalStorage • Vercel**
 
-### Core Features
+A modern responsive e-commerce application focused on providing a complete shopping experience with reusable React components and client-side state management.
 
-* User management
-* Product management
-* CRUD operations
-* REST API integration
-* Database integration
-* Hibernate/JPA persistence
-* React frontend
-* Responsive UI
+### Key Features
 
-### Architecture
+* 🔐 User Registration & Login
+* 🛍️ Product Listing
+* 🔎 Product Search
+* 🗂️ Category Filtering
+* ❤️ Wishlist
+* 🛒 Shopping Cart
+* 💳 Checkout
+* 📦 Order Management
+* 👤 Account Management
+* 📱 Responsive Design
+* 🔄 Context API
+* 💾 LocalStorage
+* 🚀 Vercel Deployment
 
-```text
-React.js
-    │
-    ▼
-REST API
-    │
-    ▼
-Spring Boot
-    │
-    ▼
-Controller
-    │
-    ▼
-Service
-    │
-    ▼
-Repository
-    │
-    ▼
-Hibernate / JPA
-    │
-    ▼
-MySQL
-```
+### Links
 
----
+<div align="left">
 
-## 📝 Task Management System
+<a href="https://shopnestcom-eight.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-ShopNest-16A34A?style=for-the-badge" alt="ShopNest Live Demo"/>
+</a>
 
-**Java • Spring Boot • Hibernate • JPA • MySQL • React.js**
-
-A full-stack task management application built around REST APIs and CRUD operations.
-
-### Features
-
-```text
-CREATE
-   ↓
-READ
-   ↓
-UPDATE
-   ↓
-DELETE
-   ↓
-DATABASE
-```
-
-### Technical Focus
-
-* Layered architecture
-* REST API development
-* CRUD operations
-* Spring Boot
-* Hibernate
-* JPA
-* MySQL
-* React.js
-
----
-
-## 🌐 Personal Portfolio
-
-**React.js • JavaScript • HTML • CSS**
-
-A responsive portfolio website showcasing my projects, skills, education and development journey.
-
-<div align="center">
-
-<a href="https://portfolio-js8d.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-VISIT%20WEBSITE-58A6FF?style=for-the-badge"/>
+<a href="https://github.com/Dalpatsinghbhayal/shopnest">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-18181B?style=for-the-badge&logo=github" alt="ShopNest Source Code"/>
 </a>
 
 </div>
 
 ---
 
-# 🤖 Machine Learning Projects
+## 📊 Gharpayy Growth Assignment
 
-I also have hands-on experience with Machine Learning and Python-based applications.
+### Lead Management Dashboard
 
-| Project                   | Technology                    |
-| ------------------------- | ----------------------------- |
-| 🚲 Bike Value Prediction  | Python • Scikit-learn • Flask |
-| 📧 Email Classification   | Python • ML • Flask           |
-| 🏠 House Price Prediction | Python • Scikit-learn • Flask |
-| 🎬 Movie Recommendation   | Python • Streamlit • ML       |
+**React.js • TypeScript • Responsive UI**
+
+A frontend dashboard project focused on building a clean, responsive and modern user experience.
+
+### Highlights
+
+* Lead management interface
+* Responsive dashboard
+* Reusable React components
+* TypeScript
+* Modern UI
+* Structured frontend architecture
+* Responsive layouts
+
+### Source Code
+
+<a href="https://github.com/Dalpatsinghbhayal/techblr-gharpayy-assignment">
+<img src="https://img.shields.io/badge/💻%20VIEW%20PROJECT-GitHub-18181B?style=for-the-badge&logo=github" alt="Gharpayy Project"/>
+</a>
 
 ---
 
-# 🧠 DSA & Problem Solving
+## 🌐 Personal Portfolio
 
-I practice **Data Structures & Algorithms using Java** for technical interview preparation.
+### Developer Portfolio Website
+
+**React.js • JavaScript • HTML5 • CSS3**
+
+A personal portfolio showcasing my technical skills, projects, education and development journey.
+
+### Highlights
+
+* Responsive design
+* Project showcase
+* Skills section
+* About section
+* Contact section
+* Modern UI
+* Smooth animations
+
+### Live Website
+
+<a href="https://portfolio-js8d.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-Portfolio-7C3AED?style=for-the-badge&logo=vercel" alt="Portfolio Live Website"/>
+</a>
+
+---
+
+## 🎬 Movie API
+
+### Movie API Based Application
+
+**JavaScript • REST API • CSS**
+
+A web application focused on consuming movie-related API data and displaying dynamic content through an interactive interface.
+
+### Concepts
+
+* REST API integration
+* Dynamic data rendering
+* Search functionality
+* API requests
+* Responsive UI
+* JavaScript development
+
+<a href="https://github.com/Dalpatsinghbhayal/movieApi">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-18181B?style=for-the-badge&logo=github" alt="Movie API Source Code"/>
+</a>
+
+---
+
+## 💱 Currency Converter
+
+### Currency Conversion Application
+
+**React.js • JavaScript • API Integration**
+
+A responsive application created to practice API integration, state management and dynamic UI updates.
+
+### Features
+
+* Currency selection
+* Dynamic conversion
+* API integration
+* React components
+* State management
+* Responsive interface
+
+<a href="https://github.com/Dalpatsinghbhayal/currencyConverte">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-18181B?style=for-the-badge&logo=github" alt="Currency Converter Source Code"/>
+</a>
+
+---
+
+## 🏠 E-Website
+
+### Responsive Frontend Application
+
+**HTML • CSS • JavaScript**
+
+A frontend project focused on responsive layouts, modern UI design and reusable web sections.
+
+<a href="https://github.com/Dalpatsinghbhayal/E-website">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-18181B?style=for-the-badge&logo=github" alt="E Website Source Code"/>
+</a>
+
+---
+
+## ☕ Hibernate Note Taker
+
+### Java Persistence Application
+
+**Java • Hibernate • MySQL**
+
+A Java-based application created to practice Hibernate ORM, entity mapping and database persistence.
+
+### Concepts
+
+* Hibernate ORM
+* Entity Mapping
+* CRUD Operations
+* MySQL Integration
+* Database Persistence
+* Java Backend Development
+
+<a href="https://github.com/Dalpatsinghbhayal/Hibernate-Note-Taker">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-18181B?style=for-the-badge&logo=github" alt="Hibernate Note Taker Source Code"/>
+</a>
+
+---
+
+# 🤖 Machine Learning Experience
+
+Alongside Full Stack Development, I have hands-on experience building Python and Machine Learning applications.
+
+| Project                   | Technology                    | Focus          |
+| :------------------------ | :---------------------------- | :------------- |
+| 🚲 Bike Value Prediction  | Python • Scikit-learn • Flask | Prediction     |
+| 📧 Email Classification   | Python • ML • Flask           | Spam Detection |
+| 🏠 House Price Prediction | Python • Scikit-learn • Flask | Regression     |
+| 🎬 Movie Recommendation   | Python • Streamlit • ML       | Recommendation |
+
+---
+
+# 🧠 DSA With Java
+
+I practice **Data Structures & Algorithms using Java** to strengthen problem-solving skills and prepare for technical interviews.
 
 ```text
 Arrays
@@ -355,11 +403,9 @@ Graphs
 Dynamic Programming
 ```
 
-### 🎯 Goal
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=700&color=F7C948&center=true&vCenter=true&width=700&lines=500%2B+DSA+Problems;Strong+Problem+Solving;Interview+Ready;Better+Code+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2200&pause=700&color=F7C948&center=true&vCenter=true&width=700&lines=DSA+with+Java;Problem+Solving;Technical+Interview+Preparation;One+Problem+at+a+Time" width="700" alt="DSA animation"/>
 
 </div>
 
@@ -373,7 +419,10 @@ Dynamic Programming
 SPRING BOOT
      │
      ▼
-REST API DESIGN
+REST APIs
+     │
+     ▼
+HIBERNATE / JPA
      │
      ▼
 MICROSERVICES
@@ -382,20 +431,24 @@ MICROSERVICES
 DOCKER
      │
      ▼
-CLOUD / AWS
+AWS
 ```
 
 </div>
 
-| Technology    | Focus         |
-| ------------- | ------------- |
-| Spring Boot   | 🟢 Learning   |
-| REST APIs     | 🟢 Learning   |
-| Hibernate     | 🟢 Learning   |
-| JPA           | 🟢 Learning   |
-| Microservices | 🟡 Exploring  |
-| Docker        | 🟡 Exploring  |
-| AWS           | 🟡 Exploring  |
+| Technology    |     Level     |
+| :------------ | :-----------: |
+| Java          |   🟢 Strong   |
+| React.js      |   🟢 Strong   |
+| JavaScript    |   🟢 Strong   |
+| MySQL         |   🟢 Strong   |
+| Hibernate     |  🟢 Learning  |
+| JPA           |  🟢 Learning  |
+| Spring Boot   |  🟢 Learning  |
+| REST APIs     |  🟢 Learning  |
+| Microservices |  🟡 Exploring |
+| Docker        |  🟡 Exploring |
+| AWS           |  🟡 Exploring |
 | DSA           | 🟢 Practicing |
 
 ---
@@ -404,29 +457,19 @@ CLOUD / AWS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dalpatsinghbhayal&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dalpatsinghbhayal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalpatsinghbhayal&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Dalpatsinghbhayal&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalpatsinghbhayal&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dalpatsinghbhayal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+<img src="https://streak-stats.demolab.com/?user=Dalpatsinghbhayal&theme=tokyonight&hide_border=true" width="700" alt="GitHub Streak"/>
 
 </div>
 
@@ -436,44 +479,70 @@ CLOUD / AWS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dalpatsinghbhayal&theme=tokyo-night&hide_border=true&area=true&custom_title=Dalpat's%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dalpatsinghbhayal&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Dalpat%20Singh%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Roadmap
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dalpatsinghbhayal/Dalpatsinghbhayal/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dalpatsinghbhayal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="95%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🎯 2026 Development Roadmap
 
 <div align="center">
 
 ```text
-             ┌──────────────────┐
-             │    CORE JAVA     │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │   HIBERNATE/JPA │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │   SPRING BOOT   │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │    REST APIs     │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │   MICROSERVICES  │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │  DOCKER + CLOUD  │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │ SOFTWARE ENGINEER│
-             └──────────────────┘
+┌──────────────────────────────┐
+│          CORE JAVA           │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│        HIBERNATE / JPA       │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│         SPRING BOOT          │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│          REST APIs           │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│         MICROSERVICES        │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│        DOCKER + AWS          │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       SOFTWARE ENGINEER      │
+└──────────────────────────────┘
 ```
 
 </div>
@@ -484,16 +553,18 @@ CLOUD / AWS
 
 I'm interested in opportunities related to:
 
-```text
-Java Development
-Backend Engineering
-Java Full Stack Development
-Spring Boot
-REST API Development
-React.js
-Database Development
-Software Engineering
-```
+<div align="center">
+
+`Java Development`
+`Java Full Stack Development`
+`Backend Engineering`
+`Spring Boot Development`
+`REST API Development`
+`React.js Development`
+`Database Development`
+`Software Engineering`
+
+</div>
 
 ---
 
@@ -502,43 +573,84 @@ Software Engineering
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dalpat-bhayal-74617524b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Dalpatsinghbhayal">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://portfolio-js8d.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://shopnestcom-eight.vercel.app/">
+<img src="https://img.shields.io/badge/ShopNest-Try%20Live%20Project-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="ShopNest"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Code+with+purpose.;Build+real-world+solutions.;Keep+learning.;Keep+building.;Keep+growing." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve;Build+real-world+applications.;Write+clean+and+maintainable+code.;Keep+learning.+Keep+building." width="750" alt="Developer footer animation"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br/><br/>
 
 ### `BUILD • LEARN • SOLVE • REPEAT`
 
-</div>
+<br/>
 
-<!-- ========================================================= -->
-
-<!--                         FOOTER                            -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,16,18,20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,50:0f172a,100:2563eb" width="100%" alt="Footer"/>
 
 </div>
+```
+
+### Snake ke liye ek baar ye file bhi banana hai
+
+Path:
+
+```text
+.github/workflows/snake.yml
+```
+
+```yaml
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Dalpatsinghbhayal
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
+```
+
+**Important:** README ke andar snake ka `<img>` tabhi show hoga jab ye workflow **kam se kam ek baar successfully run** ho aur `output` branch generate ho. Baaki images external stable services se hain; unke `<img>` tags mein `alt` aur sizing bhi rakhi hai, taaki koi service temporarily unavailable ho to profile completely broken na lage.
